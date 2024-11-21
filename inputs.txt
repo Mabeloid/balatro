@@ -1,0 +1,8 @@
+jokers: bloodstone brainstorm hangingchad oopsall6s
+hand: HA-L HJ-L HJ-L HA-G HA-G
+deck: 
+selected: 1 2 3 4 5
+levels: flushhouse:36
+skippedblinds:0
+basestats: discards:0
+discards:0
